@@ -1,0 +1,9 @@
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\bin\Debug\Logging.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\bin\Debug\Logging.pdb
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\obj\Debug\Logging.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Logging\obj\Debug\Logging.pdb

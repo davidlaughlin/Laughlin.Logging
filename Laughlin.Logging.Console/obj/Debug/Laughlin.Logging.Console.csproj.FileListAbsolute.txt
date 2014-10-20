@@ -1,0 +1,17 @@
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Laughlin.Logging.Console.exe.config
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Laughlin.Logging.Console.exe
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Laughlin.Logging.Console.pdb
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Laughlin.Logging.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\log4net.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Laughlin.Logging.pdb
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\log4net.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\obj\Debug\Laughlin.Logging.Console.csprojResolveAssemblyReference.cache
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\obj\Debug\Laughlin.Logging.Console.exe
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\obj\Debug\Laughlin.Logging.Console.pdb
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Console\bin\Debug\log4net.config

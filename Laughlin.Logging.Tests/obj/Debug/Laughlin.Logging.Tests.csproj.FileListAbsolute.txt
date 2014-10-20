@@ -1,0 +1,11 @@
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\Laughlin.Logging.Tests.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\Laughlin.Logging.Tests.pdb
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\Laughlin.Logging.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\log4net.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\Moq.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\Laughlin.Logging.pdb
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\log4net.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\bin\Debug\Moq.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\obj\Debug\Laughlin.Logging.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\obj\Debug\Laughlin.Logging.Tests.dll
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging.Tests\obj\Debug\Laughlin.Logging.Tests.pdb
