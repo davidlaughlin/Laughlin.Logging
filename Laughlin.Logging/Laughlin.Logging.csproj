@@ -53,6 +53,7 @@
     <Compile Include="ILoggerWrapper.cs" />
     <Compile Include="Loggers\EnterpriseLibraryLoggingWrapper.cs" />
     <Compile Include="Loggers\Log4NetLoggingWrapper.cs" />
+    <Compile Include="Loggers\NullLoggingWrapper.cs" />
     <Compile Include="LoggerWrapperExtensions.cs" />
     <Compile Include="LogLevel.cs" />
     <Compile Include="LogMessage.cs" />

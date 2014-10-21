@@ -13,18 +13,21 @@ namespace Laughlin.Logging.Console
     class Program
     {
         private static readonly IUnityContainer Container = new UnityContainer();
+        private const string PromptText = "Enter text to log (type 'exit' to end):";
 
         static void Main(string[] args)
         {
             Bootstrapper.Setup(Container);
 
+            System.Console.WriteLine(PromptText);
             string text = System.Console.ReadLine();
-            while (!string.IsNullOrEmpty(text))
+            while (String.Compare(text, "exit", StringComparison.CurrentCultureIgnoreCase) != 0)
             {
                 ILoggerWrapper logger = Container.Resolve<ILoggerWrapper>();
                 LogMessage message = new LogMessage(LogLevel.Info, text);
                 logger.Write(message);
 
+                System.Console.WriteLine(PromptText);
                 text = System.Console.ReadLine();
             }
         }

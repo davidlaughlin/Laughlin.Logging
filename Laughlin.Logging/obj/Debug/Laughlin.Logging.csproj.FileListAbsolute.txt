@@ -8,3 +8,4 @@ C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging\obj\Debug\Laughlin.
 C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging\obj\Debug\Laughlin.Logging.pdb
 C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging\bin\Debug\log4net.dll
 C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging\bin\Debug\log4net.xml
+C:\Users\dalaughlin\Dropbox\Source\Laughlin\Laughlin.Logging\obj\Debug\Laughlin.Logging.csprojResolveAssemblyReference.cache

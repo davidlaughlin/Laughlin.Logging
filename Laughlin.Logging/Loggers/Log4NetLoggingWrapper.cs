@@ -7,7 +7,13 @@ namespace Laughlin.Logging.Loggers
 {
     public class Log4NetLoggingWrapper : ILoggerWrapper
     {
+        #region Variables
+
         private readonly ILog _logger;
+
+        #endregion Variables
+
+        #region Constructors
 
         public Log4NetLoggingWrapper(ILog logger)
         {
@@ -23,6 +29,10 @@ namespace Laughlin.Logging.Loggers
         {
             _logger = LogManager.GetLogger(name);
         }
+
+        #endregion Constructors
+
+        #region Methods
 
         public void Write(LogMessage message)
         {
@@ -47,5 +57,8 @@ namespace Laughlin.Logging.Loggers
                     throw new InvalidEnumArgumentException(message.Level.ToString());
             }
         }
+
+        #endregion Methods
+
     }
 }
