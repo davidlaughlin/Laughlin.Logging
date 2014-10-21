@@ -10,3 +10,8 @@ This solution includes three projects:
  * Laughlin.Logging.Console - interactive test project
 
 Currently only a sample wrapper for Log4Net is included along with extension methods
+
+Need to include support for
+
+ * NLog
+ * Enterprise Library Logging
